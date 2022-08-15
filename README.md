@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @KorinaD
+- 🐣 I'm a self-taught junior font-end dev
+- 🌱 I’m currently improving my skills with HTML/CSS and JS
+- 👀 I’m interested in :
+- 🥦 eco-conception, 
+- 🦄 fancy and original front-end projects, 
+- 🦠 and other weird stuffs !

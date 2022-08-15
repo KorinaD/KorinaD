@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KorinaD
-- 🐣 I'm a self-taught junior font-end dev
+- 🐣 I'm a self-taught junior (mostly front-end) web dev
 - 🌱 I’m currently improving my skills with HTML/CSS, JS, Sass and PHP
 - 👀 I’m interested in :
 - 🥦 eco-conception, 
